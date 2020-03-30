@@ -44,14 +44,17 @@
             <tr>
                 <td>
                     <img src="imagens/eclipse.jpg" style="width: 200px;"><br>
-                    Eclipse<br>19,90<br>Comprar
+                    Eclipse<br>19,90<br>
+                    <a href="carrinho.jsp?codigo=1">Comprar</a>
                 </td>                        
                 <td>
                     <img src="imagens/cacador_pipas.jpg" style="width: 198px;"><br>
-                    O caçador de pipas<br>23,00<br>Comprar             
+                    O caçador de pipas<br>23,00<br>     
+                    <a href="carrinho.jsp?codigo=2">Comprar</a>
                 </td>                        
                 <td><img src="imagens/vendedor_sonhos.jpg" style="width: 200px;"><br>
-                    O vendedor de sonhos<br>14,90<br>Comprar
+                    O vendedor de sonhos<br>14,90<br>
+                    <a href="carrinho.jsp?codigo=3">Comprar</a>
                 </td>
             </tr>   
         </table>
